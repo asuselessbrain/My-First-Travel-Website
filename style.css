@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background-image: url('images/longest-sea-beach-in.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    box-shadow: 10px 10px 10px rgb(180, 2, 2);
+}
+#h1{
+    background-color: rgba(0, 0, 139, 0.288);
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 500%;
+}
+#color{
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+}
+.header{
+    margin: 20px;
+    padding: 20px;
+    text-align: justify;
+}
+
+ol{
+    margin: 20px 100px 20px;
+    padding: 20px;
+}
+
+li{
+    background-color: aquamarine;
+    width: fit-content;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-shadow: 10px 10px 5px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+img{
+    height: 500%;
+    width: 50%;
+}
+
+.paragraph{
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: darkgray;
+    padding: 20px;
+    border: 5px solid red;
+    box-shadow: 10px 10px 20px ;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(34, 145, 179);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
